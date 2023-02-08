@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: af80d8f0-2775-4514-be0c-cebf43052046
-  WEBAPP-NAME: az400-webapp-aveek
+  WEBAPP-NAME: az400-webapp-aveek2023
 
 
 jobs:
